@@ -1,3 +1,12 @@
 1.Hi
 2.Hello
 3.bye
+
+git init
+git add .
+git commit -m "First message"
+git branch -M main
+git remote add origin [repo_link]
+git push -u origin main
+---------------------------
+sdkfljds
